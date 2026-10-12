@@ -1,0 +1,13 @@
+.page {
+  margin: 0 auto;
+  max-width: 64rem;
+  padding: 3rem 1.5rem;
+}
+
+h1 {
+  margin: 0 0 0.75rem;
+}
+
+p {
+  color: #4b5563;
+}
